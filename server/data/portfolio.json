@@ -1,0 +1,51 @@
+[
+  {
+    "id": "1",
+    "src": "/uploads/2b5a8d82-8674-42ac-8e04-6b0098939926.webp",
+    "alt": "Wedding photography",
+    "label": "Weddings",
+    "span": "md:row-span-2"
+  },
+  {
+    "id": "2",
+    "src": "/uploads/cae1c26a-d0bc-454e-af22-4fd9961d6467.webp",
+    "alt": "Kenyan landscape",
+    "label": "Landscapes",
+    "span": ""
+  },
+  {
+    "id": "3",
+    "src": "/uploads/0b39b02f-4311-463e-8db2-673c15c98b7a.webp",
+    "alt": "Portrait photography",
+    "label": "Portraits",
+    "span": "md:row-span-2"
+  },
+  {
+    "id": "4",
+    "src": "/uploads/fa026d2a-156e-46c4-ae69-6e116f21a329.webp",
+    "alt": "Corporate headshot",
+    "label": "Corporate",
+    "span": ""
+  },
+  {
+    "id": "5",
+    "src": "/uploads/357f770f-4279-4bde-9e54-42513e1a7968.webp",
+    "alt": "Family portrait",
+    "label": "Family",
+    "span": ""
+  },
+  {
+    "id": "6",
+    "src": "/uploads/1cdb1746-bd74-4b46-a25e-05a462002a19.webp",
+    "alt": "Product photography",
+    "label": "Product",
+    "span": ""
+  },
+  {
+    "id": "def189dd-9399-464b-b6cd-b6ec8a0158d7",
+    "src": "/uploads/d2b8a295-2ee5-4336-be0d-fcec08e40e22.webp",
+    "alt": "Beach ",
+    "label": "Beach",
+    "span": ""
+  }
+]
